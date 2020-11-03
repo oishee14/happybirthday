@@ -82,7 +82,7 @@ body{
 	transform: rotateY(300deg) translateZ(300px);
 }
 img{
-    filter: grayscale(90%);
+    
     transition: 1s;
     cursor: pointer;
 }
