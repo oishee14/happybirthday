@@ -86,10 +86,7 @@ img{
     transition: 1s;
     cursor: pointer;
 }
-img:hover{
-	transition: 1s;
-	filter: grayscale(0);
-}
+
 @keyframes animate{
 from{
 	transform: rotateY(-360deg);
